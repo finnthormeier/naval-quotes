@@ -1,6 +1,6 @@
 # Reminders to Myself - Chrome Extension
 
-Get a reminder to yourself whenever you open a new tab in Google Chrome.
+Get a Reminder to Yourself whenever you open a new tab in Google Chrome.
 
 To install the extension - 
 
@@ -8,6 +8,6 @@ To install the extension -
 2. Go to Google Chrome and type chrome://extensions in the URL bar
 3. Turn on the Developer Mode from the top right corner.
 4. Click on "Load unpacked" and select the folder.
-5. Done. Now every time you open a new tab, you will be enlightned with a Naval's quote.
+5. Done. Now every time you open a new tab, you will get a Reminder to Yourself.
 
 If I get enough support, I'll publish it on the Chrome Web Store. :)
