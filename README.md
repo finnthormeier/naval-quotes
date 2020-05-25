@@ -1,8 +1,6 @@
-# naval-quotes Chrome Extension
+# Reminders to Myself - Chrome Extension
 
-It's LIVE on Chrome Store - https://chrome.google.com/webstore/detail/illkmemcaokmbihlpfhbdfgepghohkcg/
-
-Get a quote by Naval whenever you open a new tab in Google Chrome.
+Get a reminder to yourself whenever you open a new tab in Google Chrome.
 
 To install the extension - 
 
